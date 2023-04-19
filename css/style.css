@@ -1,14 +1,16 @@
 .bg-img1 {
     background-color: #000;
     background-size: cover;
-    background-image: url(../img/hero.jpg);
+    background-image: url(../img/related-3.jpg);
     height: 100vh;
 }
 
 .bg-img2 {
     background-color: #000;
     background-size: cover;
-    background-image: url(../img/maria.jpg);
+    background-image: url(../img/hero.jpg);
+    height: 100vh;
+    vertical-align:text-top;
 }
 
 .bg-img3 {
@@ -16,12 +18,13 @@
     background-size: cover;
     background-image: url(../img/customers.jpg);
     height: 100vh;
+    
 }
 
 p {
     color: #fff;
 }
 
-h5 {
+h1 {
     color: #fff;
 }
