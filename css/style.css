@@ -1,23 +1,26 @@
 .bg-img1 {
   background-color: #000;
   background-size: cover;
-  background-image: url(../img/related-3.jpg);
+  background-image: url(../img/mount-fitzroy-2225382_960_720.jpg);
   height: 90vh;
+  background-position: 50%, 50%;
 }
 
 .bg-img2 {
   background-color: #000;
   background-size: cover;
-  background-image: url(../img/hero.jpg);
+  background-image: url(../img/mountains-4933524_960_720.jpg);
   height: 90vh;
   vertical-align: text-top;
+  background-position: 50%, 50%;
 }
 
 .bg-img3 {
   background-color: #000;
   background-size: cover;
-  background-image: url(../img/customers.jpg);
+  background-image: url(../img/mountains-5995081_960_720.jpg);
   height: 90vh;
+  background-position: 50%, 50%;
 }
 
 p {
@@ -26,4 +29,14 @@ p {
 
 h1 {
   color: #fff;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px auto;
+}
+
+li {
+  display: inline-block;
 }
